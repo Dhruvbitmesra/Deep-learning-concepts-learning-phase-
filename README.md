@@ -15,15 +15,4 @@ Evaluation & Metrics – loss functions, accuracy, precision/recall, confusion m
 
 Practical Tips – handling overfitting, data augmentation, transfer learning
 
-(Add or remove topics as you upload more material.)
 
-🛠️ How to Use
-
-Clone the repo
-
-git clone https://github.com/<your-username>/<repo-name>.git
-
-
-Browse the folders or open the notebooks/markdown files for each concept.
-
-Run code examples (if provided) in Jupyter or any Python environment.
