@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/deep-learning.gif" alt="Deep Learning Animation" width="420"/>
+  <img src="assets/ml.gif" alt="Deep Learning Animation" width="420"/>
 </p>
 
 <h1 align="center">🧠 Deep Learning Essentials</h1>
